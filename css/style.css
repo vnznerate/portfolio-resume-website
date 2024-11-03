@@ -1,0 +1,31 @@
+#intro {
+    background-color: #A34343;
+    color: white;
+}
+
+#about {
+    background-color: #FBF8DD;
+}
+
+#experience {
+    background-color: #C0D6E8;
+}
+
+#projects {
+    background-color: #E9C874;
+}
+
+#footer {
+    background-color: #A34343;
+}
+
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: .75rem;
+}
+
+.divider {
+    margin: 1rem 0;
+    padding-top: 2rem;
+}
